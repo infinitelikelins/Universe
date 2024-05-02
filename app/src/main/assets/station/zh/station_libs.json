@@ -1,0 +1,214 @@
+{
+  "image_libs": [
+    {
+      "name": "飞天神舟",
+      "imageType": "res",
+      "icon": "",
+      "imageName": "station_feitiansz_",
+      "items": [
+        {
+          "name": "01我的调查表",
+          "index": "1"
+        },
+        {
+          "name": "02参观航天馆",
+          "index": "2"
+        },
+        {
+          "name": "03亲子火箭制作第一版",
+          "index": "3"
+        },
+        {
+          "name": "04亲子火箭制作升级版",
+          "index": "4"
+        },
+        {
+          "name": "05我的火箭分享会",
+          "index": "5"
+        },
+        {
+          "name": "06我们的探究",
+          "index": "6"
+        },
+        {
+          "name": "07火箭畅想曲",
+          "index": "7"
+        }
+      ]
+    },
+    {
+      "name": "了不起的宇航员",
+      "imageType": "res",
+      "icon": "",
+      "imageName": "station_liaobuqidyhy_",
+      "items": [
+        {
+          "name": "01我了解的探测器分享现场",
+          "index": "1"
+        },
+        {
+          "name": "02我认识的宇航员分享现场",
+          "index": "2"
+        },
+        {
+          "name": "03太空舱游戏现场",
+          "index": "3"
+        },
+        {
+          "name": "04探测器设计图",
+          "index": "4"
+        },
+        {
+          "name": "05宇航员的工作调查表",
+          "index": "5"
+        }
+      ]
+    },
+    {
+      "name": "行星的秘密",
+      "imageType": "res",
+      "icon": "",
+      "imageName": "station_xingxingdmm_",
+      "items": [
+        {
+          "name": "01我知道的行星知识分享现场",
+          "index": "1"
+        },
+        {
+          "name": "02有趣的外星人制作分享",
+          "index": "2"
+        }
+      ]
+    },
+    {
+      "name": "有趣的空间站",
+      "imageType": "res",
+      "icon": "",
+      "imageName": "station_youqudkjz_",
+      "items": [
+        {
+          "name": "01搭建空间站",
+          "index": "1"
+        },
+        {
+          "name": "02空间站VR体验馆感受",
+          "index": "2"
+        },
+        {
+          "name": "03余奕洵《中国空间站——天宫》",
+          "index": "3"
+        }
+      ]
+    }
+  ],
+  "sound_libs": [
+    {
+      "name": "飞天神舟",
+      "imageType": "res",
+      "soundType": "assets",
+      "icon": "station_lib_c_selector",
+      "soundName": "station/zh/station_feitiansz_",
+      "imageName": "station_feitiansz_",
+      "items": [
+        {
+          "name": "01我的调查表",
+          "index": "1"
+        },
+        {
+          "name": "02参观航天馆",
+          "index": "2"
+        },
+        {
+          "name": "03亲子火箭制作第一版",
+          "index": "3"
+        },
+        {
+          "name": "04亲子火箭制作升级版",
+          "index": "4"
+        },
+        {
+          "name": "05我的火箭分享会",
+          "index": "5"
+        },
+        {
+          "name": "06我们的探究",
+          "index": "6"
+        },
+        {
+          "name": "07火箭畅想曲",
+          "index": "7"
+        }
+      ]
+    },
+    {
+      "name": "了不起的宇航员",
+      "imageType": "res",
+      "soundType": "assets",
+      "icon": "station_lib_c_selector",
+      "soundName": "station/zh/station_liaobuqidyhy_",
+      "imageName": "station_liaobuqidyhy_",
+      "items": [
+        {
+          "name": "01我了解的探测器分享现场",
+          "index": "1"
+        },
+        {
+          "name": "02我认识的宇航员分享现场",
+          "index": "2"
+        },
+        {
+          "name": "03太空舱游戏现场",
+          "index": "3"
+        },
+        {
+          "name": "04探测器设计图",
+          "index": "4"
+        },
+        {
+          "name": "05宇航员的工作调查表",
+          "index": "5"
+        }
+      ]
+    },
+    {
+      "name": "行星的秘密",
+      "imageType": "res",
+      "soundType": "assets",
+      "icon": "station_lib_c_selector",
+      "soundName": "station/zh/station_xingxingdmm_",
+      "imageName": "station_xingxingdmm_",
+      "items": [
+        {
+          "name": "01我知道的行星知识分享现场",
+          "index": "1"
+        },
+        {
+          "name": "02有趣的外星人制作分享",
+          "index": "2"
+        }
+      ]
+    },
+    {
+      "name": "有趣的空间站",
+      "imageType": "res",
+      "soundType": "assets",
+      "icon": "station_lib_c_selector",
+      "soundName": "station/zh/station_youqudkjz_",
+      "imageName": "station_youqudkjz_",
+      "items": [
+        {
+          "name": "01搭建空间站",
+          "index": "1"
+        },
+        {
+          "name": "02空间站VR体验馆感受",
+          "index": "2"
+        },
+        {
+          "name": "03余奕洵《中国空间站——天宫》",
+          "index": "3"
+        }
+      ]
+    }
+  ]
+}
